@@ -1,13 +1,12 @@
-# Perception Simplex Scenario
+# Perception Simplex
 
 This fork from the [LGSVL Python API Repository](https://github.com/lgsvl/PythonAPI),
-contains the simulation scenario, data collection, and graphing scripts for [Perception Simplex](https://github.com/CPS-IL/perception_simplex).
+contains the lgsvl python api, simulation scenarios, data collection, and graphing scripts for [Perception Simplex](https://github.com/CPS-IL/perception_simplex).
 Please refer to [Perception Simplex](https://github.com/CPS-IL/perception_simplex) for usage instructions.
 
 
-
 -----
-The original ReadMe follows below:
+The original ReadMe follows:
 
 
 
